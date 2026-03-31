@@ -37,12 +37,12 @@ ollama pull llama3
 ```
 
 ### 2. Clone & Setup
-# Clone the repository
+Clone the repository
 ```bash
 git clone [https://github.com/Zeitan0/my-portfolio.git](https://github.com/Zeitan0/my-portfolio.git)
 cd my-portfolio
 ```
-# Install Python dependencies
+Install Python dependencies
 ```bash
 pip install flask requests pypdf2
 ```
